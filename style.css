@@ -1,0 +1,25 @@
+.nav{
+	background-color: #74adef;
+	padding: 30px 50px;
+}
+.nav a{
+	font-size: 20px;
+	text-decoration: none;
+	margin-left: 20px;
+}
+.log{
+	float: right;
+}
+a:hover{
+	color: white;
+}
+.head{
+	border: 1px solid;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 20px;
+	max-width: 70rem;
+}
+.body{
+	padding: 10px 20px;
+}
